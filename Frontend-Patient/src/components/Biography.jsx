@@ -11,29 +11,21 @@ const Biography = ({ imageUrl }) => {
         <p>Biography</p>
         <h3>Who We Are</h3>
         <p>
-          Life Care Hospital is a premier healthcare provider dedicated to
-          offering comprehensive medical services with exceptional care. Our
-          expert team of healthcare professionals is committed to delivering
-          personalized treatment, ensuring that every patient receives the
-          highest standard of care.
+        NutriFit is a premier nutrition and wellness center dedicated to helping you achieve optimal health through balanced, personalized dietary guidance.Our team of expert dieticians is committed to understanding your unique needs and crafting nutrition plans that fit your lifestyle. At NutriFit, we combine science, compassion, and expertise to empower you on your journey toward lasting health and wellness.
+
+
         </p>
         <p>
-          Our facility is equipped with state-of-the-art technology and staffed
-          by highly skilled professionals, all focused on delivering excellent
-          care.
+        Our center is equipped with modern nutritional assessment tools and guided by a team of highly skilled dieticians, all dedicated to delivering expert, personalized care.
         </p>
         <p>
-          Our team of doctors, nurses, and support staff work collaboratively to
-          provide comprehensive medical solutions.
+        Our team of experienced dieticians, nutritionists, and wellness experts work together to provide holistic and personalized nutrition solutions.
         </p>
         <p>
-          We believe in a patient-centered approach, where each individual's
-          needs are addressed with attention and expertise.
+        We believe in a client-centered approach, where every individual's nutritional needs are met with care, attention, and professional expertise.
         </p>
         <p>
-          We are dedicated to making a positive impact on the lives of our
-          patients, providing the care and support they need to achieve their
-          best health.
+        We are dedicated to making a meaningful impact on our clients' lives by providing the guidance, support, and care they need to achieve their healthiest selves.
         </p>
       </div>
     </div>

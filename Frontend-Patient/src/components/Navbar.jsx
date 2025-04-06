@@ -36,7 +36,7 @@ const Navbar = () => {
       <nav className="container">
         <div className="logo">
           {" "}
-          <img src="/logo.png" alt="logo" className="logo-img" onClick={()=>navigateTo("/")}/>
+          <img src="/logo.png" alt="logo" className="logo-img" style={{ width: "420px", height: "100px", marginLeft: "-100px" }} onClick={()=>navigateTo("/")}/>
         </div>
         <div className={show ? "navLinks showmenu" : "navLinks"}>
           <div className="links">

@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <>
             <Hero
-                title={"Life Care Hospital, Where Compassion Meets Excellence in Healthcare "}
+                title={"NutriFit – Your Wellness, Our Mission"}
                 imageUrl={"/hero.png"}
             />
             <Biography imageUrl={"/about.png"} />

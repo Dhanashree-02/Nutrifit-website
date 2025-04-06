@@ -5,40 +5,40 @@ import "react-multi-carousel/lib/styles.css";
 const Departments = () => {
   const departmentsArray = [
     {
-      name: "Pediatrics",
-      imageUrl: "/departments/pedia.jpg",
+      name: "Clinical Nutritionist",
+      imageUrl: "/departments/ClinicalNutritionist.jpg",
     },
     {
-      name: "Orthopedics",
-      imageUrl: "/departments/ortho.jpg",
+      name: "Sports Dietitian",
+      imageUrl: "/departments/SportsDietitian.jpg",
     },
     {
-      name: "Cardiology",
-      imageUrl: "/departments/cardio.jpg",
+      name: "Wellness Coach",
+      imageUrl: "/departments/WellnessCoach.jpg",
     },
     {
-      name: "Neurology",
-      imageUrl: "/departments/neuro.jpg",
+      name: "Nutrition Therapist",
+      imageUrl: "/departments/NutritionTherapist.jpg",
     },
     {
-      name: "Oncology",
-      imageUrl: "/departments/onco.jpg",
+      name: "Pediatric Dietician",
+      imageUrl: "/departments/PediatricDietician.jpg",
     },
     {
-      name: "Radiology",
-      imageUrl: "/departments/radio.jpg",
+      name: "Geriatric Dietician",
+      imageUrl: "/departments/GeriatricDietician.jpg",
     },
     {
-      name: "Physical Therapy",
-      imageUrl: "/departments/therapy.jpg",
+      name: "Vegan Dietician",
+      imageUrl: "/departments/VeganDietician.jpg",
     },
     {
-      name: "Dermatology",
-      imageUrl: "/departments/derma.jpg",
+      name: "Renal Dietician",
+      imageUrl: "/departments/RenalDietician.jpg",
     },
     {
-      name: "ENT",
-      imageUrl: "/departments/ent.jpg",
+      name: "Diabetes Educator",
+      imageUrl: "/departments/DiabetesEducator.jpg",
     },
   ];
 
