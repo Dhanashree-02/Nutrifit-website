@@ -33,7 +33,7 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className="container">
+      <nav className="container" style={{position:"sticky", top:"0", }}>
         <div className="logo">
           {" "}
           <img src="/logo.png" alt="logo" className="logo-img" style={{ width: "420px", height: "100px", marginLeft: "-100px" }} onClick={()=>navigateTo("/")}/>

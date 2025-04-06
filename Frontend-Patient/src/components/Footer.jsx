@@ -13,7 +13,7 @@ const Footer = () => {
         <hr />
         <div className="content">
           <div>
-            <img src="/logo.png" alt="logo" className="logo-img" />
+            <img src="/logo.png" alt="logo" style={{ width: "420px", height: "100px", marginTop: "40px", marginLeft: "-80px" }} onClick={()=>navigateTo("/")}className="logo-img" />
           </div>
           <div>
             <h4>Quick Links</h4>
